@@ -1,0 +1,35 @@
+HELP.md
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+HELP.md #表示忽略当前路径的 文件
+*.cmd
+mvnw
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+target/ # 忽略整个target文件夹
+.idea/
+.mvn/
+
+### VS Code ###
+.vscode/
